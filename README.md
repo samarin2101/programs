@@ -22,9 +22,9 @@
 
 - `nodejs`, `npm` — для работы с JavaScript.
 - `ark`, `unrar` — для работы с архивами.
-- `fish` — альтернативная оболочка.
+- `fish` — консульная альтернативная оболочка.
 - `openssh` — для удалённого доступа.
-- `haruna`, Видеоплеер
+- `haruna`, видеоплеер
 - `neofetch`, `screenfetch` — утилиты для отображения информации о системе.
 - `qbittorrent`, `telegram-desktop`, `audacity`, `kate`, `vim`, `gimp` — программы для повседневного использования.
 - `btrfs-progs`, `gnome-disk-utility` — для работы с файловыми системами и дисками.
